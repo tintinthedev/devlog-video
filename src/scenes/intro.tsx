@@ -1,7 +1,6 @@
 import {
   blur,
   Circle,
-  CubicBezier,
   Icon,
   Img,
   is,
@@ -9,6 +8,7 @@ import {
   makeScene2D,
   Node,
   Polygon,
+  QuadBezier,
   Txt,
 } from "@motion-canvas/2d";
 import bg from "../../images/bg.jpg";
@@ -105,7 +105,7 @@ export default makeScene2D(function* (view) {
   const botArrow = createRef<Line>();
 
   view.add(
-    <CubicBezier
+    <QuadBezier
       endArrow
       lineWidth={10}
       stroke={"white"}
@@ -113,9 +113,8 @@ export default makeScene2D(function* (view) {
       end={0}
       ref={botArrow}
       p0={[0, -140]}
-      p1={[0, -240]}
-      p2={[120, -300]}
-      p3={new Vector2(botImgPos).sub([120, 0])}
+      p1={[120, -300]}
+      p2={new Vector2(botImgPos).sub([120, 0])}
     />
   );
 
