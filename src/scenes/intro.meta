@@ -1,5 +1,62 @@
 {
   "version": 0,
-  "timeEvents": [],
+  "timeEvents": [
+    {
+      "name": "programmer",
+      "targetTime": 0.5435472541554934
+    },
+    {
+      "name": "techGuy",
+      "targetTime": 1.9898941670567947
+    },
+    {
+      "name": "discordUser",
+      "targetTime": 4.229646761279332
+    },
+    {
+      "name": "combination",
+      "targetTime": 5.508588947500108
+    },
+    {
+      "name": "iCreated",
+      "targetTime": 7.507229951663893
+    },
+    {
+      "name": "IA",
+      "targetTime": 9.066409091472336
+    },
+    {
+      "name": "improved",
+      "targetTime": 13.73551575959572
+    },
+    {
+      "name": "iconAI",
+      "targetTime": 17.235193189363052
+    },
+    {
+      "name": "hideStuff",
+      "targetTime": 18.235193189363052
+    },
+    {
+      "name": "showDiscly",
+      "targetTime": 21.416505028773784
+    },
+    {
+      "name": "createServers",
+      "targetTime": 26.556123456795376
+    },
+    {
+      "name": "graySevers",
+      "targetTime": 36.82927796314024
+    },
+    {
+      "name": "colorAgain",
+      "targetTime": 47.77589109331491
+    },
+    {
+      "name": "outro",
+      "targetTime": 54.31763834373092
+    }
+  ],
   "seed": 2320973456
 }
