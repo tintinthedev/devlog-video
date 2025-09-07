@@ -1,0 +1,58 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "startTalk",
+      "targetTime": 4.021543408360127
+    },
+    {
+      "name": "hideNerd",
+      "targetTime": 5.983922829581992
+    },
+    {
+      "name": "showCmd",
+      "targetTime": 8.494694533762058
+    },
+    {
+      "name": "editCmd",
+      "targetTime": 12.406913183279752
+    },
+    {
+      "name": "editCmd2",
+      "targetTime": 14.47861736334406
+    },
+    {
+      "name": "clickEnter",
+      "targetTime": 17.842443729903543
+    },
+    {
+      "name": "alteredMsg",
+      "targetTime": 21.804823151125408
+    },
+    {
+      "name": "showMsgExtra",
+      "targetTime": 24.38906752411576
+    },
+    {
+      "name": "decreaseUserMsg",
+      "targetTime": 33.271221864951755
+    },
+    {
+      "name": "showAI",
+      "targetTime": 36.41809789167093
+    },
+    {
+      "name": "hightlight",
+      "targetTime": 43.598498574650364
+    },
+    {
+      "name": "hightlightArrow",
+      "targetTime": 46.9405451492531
+    },
+    {
+      "name": "hightlightAI",
+      "targetTime": 51.14878555904077
+    }
+  ],
+  "seed": 1136968098
+}
